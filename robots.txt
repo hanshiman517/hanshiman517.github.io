@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hanshiman517github.io//sitemap.xml
+Sitemap: https://hanshiman517.github.io//sitemap.xml
